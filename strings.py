@@ -96,6 +96,35 @@
 #     i+=1
 
 
+# string2="Malayalam"
+
+# for i in string2:
+#     print(i)
+
+# lang=["malayalam","hindi","telungu","karnataka"]
+# for i in lang:
+#     print(i)
+
+
+# for i in range(10):
+#     print(i)
+
+
+
+# for i in range(1,101):
+#     print(i)
+
+
+# for i in range(0,202,2):
+#     print(i)
+
+
+# list1 = ["apple","banana","pineapple"]
+# print(list1[-1])
+
+# list1="Apple"
+# print(list1[-1])
+
 
 
 
